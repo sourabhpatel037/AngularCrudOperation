@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "firstname": "Sourabh",
+      "lastname": "patel",
+      "birthdate": "2023-07-03",
+      "gender": "m",
+      "education": "graduate",
+      "company": "hcl",
+      "jobExperience": 1,
+      "salary": 20,
+      "profile": "employee1.jpeg",
+      "id": 1
+    },
+    {
+      "firstname": "vikash",
+      "lastname": "patel",
+      "birthdate": "1999-02-07",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Amex",
+      "jobExperience": 3,
+      "salary": 13,
+      "profile": "employee5.jpeg",
+      "id": 3
+    },
+    {
+      "firstname": "Smriti",
+      "lastname": "bagde",
+      "birthdate": "2000-06-08",
+      "gender": "",
+      "education": "graduate",
+      "company": "Wipro",
+      "jobExperience": 2,
+      "salary": 14,
+      "profile": "employee4.jpeg",
+      "id": 4
+    },
+    {
+      "firstname": "Sandeep",
+      "lastname": "Rathore",
+      "birthdate": "2002-05-14",
+      "gender": "",
+      "education": "graduate",
+      "company": "Google",
+      "jobExperience": 2,
+      "salary": 17,
+      "profile": "employee6.jpeg",
+      "id": 5
+    },
+    {
+      "firstname": "Yashvardhan",
+      "lastname": "Singh",
+      "birthdate": "1997-08-05",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Dell Technologies",
+      "jobExperience": 4,
+      "salary": 21,
+      "profile": "employee3.jpeg",
+      "id": 8
+    },
+    {
+      "firstname": "Aditi",
+      "lastname": "Patel",
+      "birthdate": "2003-05-21",
+      "gender": "",
+      "education": "graduate",
+      "company": "Hp Technologies",
+      "jobExperience": 2,
+      "salary": 16,
+      "profile": "employee2.jpeg",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
